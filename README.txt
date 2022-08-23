@@ -15,6 +15,7 @@ Aucune authentification n'est nécessaire.
 La différence entre les fichiers que dispose l'hébergeur de site web et le .zip sont est que cette fois-ci la 
 page principale se nomme bien "index.php", et les informations de connexion à la base de données sont différentes.
 
+Bonne Discussion :)
 -----------
 
 Règles & Fonctionnalités :
