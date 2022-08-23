@@ -12,8 +12,6 @@ connexion dans la page "connexion.php" en fonction des informations de votre bas
 Sinon vous pouvez accéder à la plateforme via Internet depuis ce lien : https://chat-world.alwaysdata.net.
 Aucune authentification n'est nécessaire.
 À votre arrivée, la base de données sera vide.
-La différence entre les fichiers que dispose l'hébergeur de site web et le .zip sont est que cette fois-ci la 
-page principale se nomme bien "index.php", et les informations de connexion à la base de données sont différentes.
 
 Bonne Discussion :)
 -----------
