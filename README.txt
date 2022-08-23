@@ -3,11 +3,10 @@ Bienvenue dans Chat Word !
 Chat World est une plateforme, qui permet à plusieurs internautes de communiquer entre eux. Elle a été développée par les Mahendear Steven et 
 Berretta Baptiste du groupe D de l'IUT Paul Sabatier.
 
-Dans le .zip fournit la page principale est nommée "afficher.php" au lieu de "index.php" afin de respecter au mieux les consignes données.
 Un .sql est fourni afin de l'importer dans une base de données pour tester la plateforme. Veuillez à bien changer les informations de 
 connexion dans la page "connexion.php" en fonction des informations de votre base de données.
 
-Sinon vous pouvez accéder à la plateforme via Internet depuis ce lien : chat-world.alwaysdata.net.
+Sinon vous pouvez accéder à la plateforme via Internet depuis ce lien : https://chat-world.alwaysdata.net.
 Aucune authentification n'est nécessaire.
 À votre arrivée, la base de données sera vide.
 La différence entre les fichiers que dispose l'hébergeur de site web et le .zip sont est que cette fois-ci la 
