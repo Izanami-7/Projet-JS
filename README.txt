@@ -6,7 +6,7 @@ Berretta Baptiste du groupe D de l'IUT Paul Sabatier.
 L’objectif général est de développer une application de messagerie instantanée en utilisant l’architecture Ajax et la librairie Jquery s’appuyant toutes deux sur le langage JavaScript. Le client web (i.e. le navigateur) permet aux utilisateurs d’envoyer des messages à travers des requêtes Ajax qui seront traités et stockés dans une base de données MySQL par des scripts PHP. Un message est caractérisé par un identifiant, une estampille horaire, un auteur et un contenu.
 
 Pour tester localement le projet, il vous faudra créer une base de donnée nommé "chat". 
-Un .sql est fourni dans le dossier "db" afin de l'importer dans une base de données pour tester la plateforme. Veuillez à bien changer les informations de 
+Un .sql est fourni dans le dossier "db" contenant toutes les tables afin de l'importer dans votre base de données. Veuillez à bien changer les informations de 
 connexion dans la page "connexion.php" en fonction des informations de votre base de données.
 
 Sinon vous pouvez accéder à la plateforme via Internet depuis ce lien : https://chat-world.alwaysdata.net.
