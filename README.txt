@@ -1,8 +1,11 @@
 Bienvenue dans Chat Word !
 
-Chat World est une plateforme, qui permet à plusieurs internautes de communiquer entre eux. Elle a été développée par les Mahendear Steven et 
+Chat World est une plateforme, qui permet à plusieurs internautes de communiquer entre eux. Elle a été développée par les étudiants : Mahendear Steven et 
 Berretta Baptiste du groupe D de l'IUT Paul Sabatier.
 
+L’objectif général est de développer une application de messagerie instantanée en utilisant l’architecture Ajax et la librairie Jquery s’appuyant toutes deux sur le langage JavaScript. Le client web (i.e. le navigateur) permet aux utilisateurs d’envoyer des messages à travers des requêtes Ajax qui seront traités et stockés dans une base de données MySQL par des scripts PHP. Un message est caractérisé par un identifiant, une estampille horaire, un auteur et un contenu.
+
+Pour tester localement le projet, il vous faudra créer une base de donnée nommé "chat". 
 Un .sql est fourni afin de l'importer dans une base de données pour tester la plateforme. Veuillez à bien changer les informations de 
 connexion dans la page "connexion.php" en fonction des informations de votre base de données.
 
@@ -14,7 +17,7 @@ page principale se nomme bien "index.php", et les informations de connexion à l
 
 -----------
 
-Règles/Fonctionnalités :
+Règles & Fonctionnalités :
 
 - Vous devez absolument avoir un pseudo afin de discuter.
 
